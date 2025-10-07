@@ -1,0 +1,8 @@
+OrderID,CustomerID,Product,Category,Quantity,Price,OrderDate,TotalSales
+1001,1,Laptop,Electronics,1,700,2025-09-01,700
+1002,2,Headphones,Electronics,2,50,2025-09-01,100
+1003,3,Mouse,Electronics,1,20,2025-09-02,20
+1004,1,Laptop,Electronics,1,700,2025-09-03,700
+1005,2,Mouse,Electronics,3,20,2025-09-03,60
+1006,4,Keyboard,Electronics,1,100,2025-09-04,100
+1007,5,Headphones,Electronics,2,50,2025-09-05,100
